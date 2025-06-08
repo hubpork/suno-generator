@@ -79,7 +79,7 @@ export default function PromptGenerator() {
   return (
     <div className="min-h-screen flex flex-col items-center p-6">
       <h2 className="text-2xl lg:text-3xl font-bold mb-4">🎸 Suno Prompt Generator</h2>
-      <div className="grid grid-cols-2 gap-4 w-full max-w-xl">
+      <div className="grid md:grid-cols-2 gap-4 w-full max-w-xl">
         <div className="flex flex-col">
           <label className="block text-gray-700 text-sm font-bold mb-2 text-left" for="voice">Wähle eine Stimme:</label>
           <select
