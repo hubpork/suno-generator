@@ -1,2 +1,2 @@
 # suno-generator
-Voice style prompt app
+Suno random prompt generator
